@@ -1,0 +1,102 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2020 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "vegy",
+      "title": "2022 Mercedes-Benz C-Class'",
+      "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
+      "price": 199
+    }
+  ],
+  "requests": [
+    {
+      "name": "Abduvohid",
+      "phone": "+ (99)857-72-32",
+      "id": 1
+    },
+    {
+      "name": "vohid",
+      "phone": "1111",
+      "id": 2
+    },
+    {
+      "name": "cdddd",
+      "phone": "1111",
+      "id": 3
+    },
+    {
+      "name": "google",
+      "phone": "254545",
+      "id": 4
+    },
+    {
+      "name": "Abduvohid",
+      "phone": "+ (99)857-72-32",
+      "id": 5
+    },
+    {
+      "name": "ew",
+      "phone": "757",
+      "id": 6
+    },
+    {
+      "name": ", ",
+      "phone": "5",
+      "id": 7
+    },
+    {
+      "name": "dsvv",
+      "phone": "vsd",
+      "id": 8
+    },
+    {
+      "name": "vohid",
+      "phone": "+ (99)857-72-32",
+      "id": 9
+    },
+    {
+      "name": "vohid",
+      "phone": "+ (99)857-72-32",
+      "id": 10
+    },
+    {
+      "name": "vohid",
+      "phone": "+ (99)857-72-32",
+      "id": 11
+    },
+    {
+      "name": "sd",
+      "phone": "+ (99)857-72-32",
+      "id": 12
+    },
+    {
+      "name": "Abduvohid",
+      "phone": "+ (99)857-72-32",
+      "id": 13
+    },
+    {
+      "name": "vohid",
+      "phone": "+ (99)857-72-32",
+      "id": 14
+    },
+    {
+      "name": "Abduvohid",
+      "phone": "+ (99)857-72-32",
+      "id": 15
+    }
+  ]
+}
